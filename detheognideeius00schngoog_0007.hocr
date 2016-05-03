@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detheognideeius00schngoog_0007.png"; bbox 0 0 1279 1575; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 562 261 1015">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 562 261 1015">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 562 261 1015; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 239 562 260 699; x_wconf 60' lang='lat' dir='ltr'>Stfidtisohe</span> <span class='ocrx_word' id='word_1_2' title='bbox 240 713 261 858; x_wconf 72' lang='lat' dir='ltr'>Realsehule</span> <span class='ocrx_word' id='word_1_3' title='bbox 240 872 255 903; x_wconf 83' lang='lat' dir='ltr'>zu</span> <span class='ocrx_word' id='word_1_4' title='bbox 239 918 261 1015; x_wconf 78' lang='lat' dir='ltr'>Stettin.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 112 1119 1458">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 112 1119 1458">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 112 1119 1458; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 148 112 1119 1458; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 132 198 146 1380">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 132 198 146 1380">
+     <span class='ocr_line' id='line_1_3' title="bbox 132 198 146 1380; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 132 198 144 290; x_wconf 70' lang='lat' dir='ltr'><strong>nnlxnnhnm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 132 297 141 312; x_wconf 80' lang='lat' dir='ltr'>u.</span> <span class='ocrx_word' id='word_1_8' title='bbox 133 319 144 366; x_wconf 53' lang='lat' dir='ltr'>mxv-:k</span> <span class='ocrx_word' id='word_1_9' title='bbox 133 374 141 388; x_wconf 85' lang='lat' dir='ltr'>v.</span> <span class='ocrx_word' id='word_1_10' title='bbox 133 397 144 478; x_wconf 65' lang='lat' dir='ltr'>sunnhem</span> <span class='ocrx_word' id='word_1_11' title='bbox 133 486 144 496; x_wconf 69' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_12' title='bbox 132 504 144 553; x_wconf 65' lang='lat' dir='ltr'>xmae.</span> <span class='ocrx_word' id='word_1_13' title='bbox 133 562 145 621; x_wconf 65' lang='lat' dir='ltr'>Stemnv</span> <span class='ocrx_word' id='word_1_14' title='bbox 133 1296 144 1326; x_wconf 61' lang='lat' dir='ltr'>gaz.</span> <span class='ocrx_word' id='word_1_15' title='bbox 135 1333 146 1380; x_wconf 70' lang='lat' dir='ltr'>Loue-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
